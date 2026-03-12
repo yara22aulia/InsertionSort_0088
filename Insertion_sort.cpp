@@ -28,7 +28,7 @@ void input (){      //procedure input
     }
 }
 
-void insertionsort(){  //procedure insertion sort
+void insertionsort(){  
     int temp;
     int j;
 
@@ -50,7 +50,8 @@ void insertionsort(){  //procedure insertion sort
 
 }
 
-void display(){
+void display()
+{
     cout << endl;
     cout << "\n================";
     cout << "\nElement Array" << endl;
