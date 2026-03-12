@@ -51,7 +51,9 @@ void insertionsort(){
 
 }
 
-void display()
+void display(
+    
+)
 {
     cout << endl;
     cout << "\n================";
