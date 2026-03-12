@@ -52,7 +52,7 @@ void insertionsort(){
 }
 
 void display(
-    
+
 )
 {
     cout << endl;
@@ -65,7 +65,8 @@ void display(
     cout << endl;
 }
 
-int main()
+int main(
+)
 {
     input();
     insertionsort();
